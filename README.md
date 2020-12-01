@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Instagram Clone with React JS
+- 🔭 I’m currently working on Telegram Clone with React JS
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Frontend development
 - 💬 Ask me about Coding
